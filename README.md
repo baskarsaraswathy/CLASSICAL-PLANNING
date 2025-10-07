@@ -1,4 +1,8 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+
+### Name: BASKAR J
+### Register Number: 212223040025
+
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
